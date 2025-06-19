@@ -1,0 +1,6 @@
+# This is a placeholder file.
+# Please replace this with your actual 'GoogleService-Info.plist' file from Firebase.
+# Download it from your Firebase project settings (Project settings > General > Your apps > iOS app).
+# Place the downloaded 'GoogleService-Info.plist' in this directory:
+# control_escolar_app/ios/Runner/GoogleService-Info.plist
+# You will also need to add it to your Xcode project via "Add files to 'Runner'".
